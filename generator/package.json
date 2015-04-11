@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "coffee-script": "~1.9.1",
+    "wintersmith-jade": "~0.1.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "require": {
+    "coffee": "coffee-script/register"
+  },
+  "plugins": [
+    "wintersmith-jade"
+  ]
+}
